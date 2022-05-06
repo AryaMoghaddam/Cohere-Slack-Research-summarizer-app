@@ -5,7 +5,7 @@
 ## I used Bolt.js to create a Slack app and Cohere's Text generator API to summarize reasearch papers.
 
 ### Setting up Cohere
-![create-api-key-40f59c326a07aed4e259fecd7ec036f6](https://user-images.githubusercontent.com/63557848/167206765-d94525e4-47f2-417a-a9d3-97a386056d06.gif)
+![create-slack-app-web-ui-d10550b4adcadd8bf852e9c8bea5d2d4](https://user-images.githubusercontent.com/63557848/167219786-a94e7e42-e98f-4729-91e0-0445de2aa31c.gif)
 
 ### Creating the app 
 ![image](https://user-images.githubusercontent.com/63557848/167219103-2ed5afbe-c379-4a6f-8823-2055fd8093f2.png)
