@@ -86,6 +86,8 @@ We will need to teach our bot how to fetch an abstract before we can summarize i
   }
   ```
   
+  ### The bot returns a response message when prompted
   ![Screen Recording 2022-05-06 at 8 12 02 PM](https://user-images.githubusercontent.com/63557848/167229895-354c2c30-42ea-42b9-890d-09f9b0cdf234.gif)
 
+  ### We can also adjust the app.js to include a button along with a text message
   
