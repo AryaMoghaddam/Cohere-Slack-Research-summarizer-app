@@ -92,7 +92,3 @@ We will need to teach our bot how to fetch an abstract before we can summarize i
   ### We can also adjust the app.js to include a button along with a text message
   ![Screen Recording 2022-05-06 at 8 47 14 PM](https://user-images.githubusercontent.com/63557848/167231334-9c9f0bfe-4f2b-4fc1-80c5-007023da003c.gif)
 
-
-asdjasd
-adka
-kni aisdha
